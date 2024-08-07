@@ -64,14 +64,6 @@ The project consists of the following files:
 
 The algorithms presented in this project are examples of how to use Portugol Studio to solve specific problems. They address calculations and decisions based on user input, demonstrating the use of variables, constants, and control structures.
 
-## Contributions
-
-If you would like to contribute to this project, feel free to submit pull requests with improvements or corrections. We appreciate your contributions!
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
 # Projeto de Algoritmos em Portugol Studio-Traduzido:
 
 ## Descrição
@@ -138,10 +130,3 @@ O projeto é composto pelos seguintes arquivos:
 
 Os algoritmos apresentados neste projeto são exemplos de como utilizar o Portugol Studio para resolver problemas específicos. Eles abordam cálculos e decisões baseadas em entrada do usuário, demonstrando o uso de variáveis, constantes e estruturas de controle.
 
-## Contribuições
-
-Se você deseja contribuir para este projeto, sinta-se à vontade para enviar pull requests com melhorias ou correções. Agradecemos suas contribuições!
-
-## Licença
-
-Este projeto está licenciado sob a [Licença MIT](LICENSE).
